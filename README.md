@@ -30,8 +30,7 @@
 
 ## Dashboard
 
-<img width="1317" height="571" alt="DASHBOARD_Coffee" src="https://github.com/user-attachments/assets/0037d490-e14a-4a46-bc60-9b0b7e94d888" />
-
+<img width="1317" height="567" alt="Dashboard (Coffee Sales)" src="https://github.com/user-attachments/assets/1dd4ca13-fd15-4f1f-86b6-718bfecb7d52" />
 
 
 ## KEY INSIGHTS
