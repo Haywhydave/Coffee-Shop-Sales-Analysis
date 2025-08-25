@@ -5,8 +5,7 @@
 
 
 ## Data Set link Used
-[Dataset](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20(Coffee%20Sales).png)
-
+[Dataset](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/coffeeOrdersData.xlsx)
 
 ## Questions (KPIs)
 1.	Find trends of total sales for each coffee type.
