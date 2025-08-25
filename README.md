@@ -17,7 +17,7 @@
 
 
 ## Dashboard Interaction
-[Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/DASHBOARD_Coffee.png)
+[Dashboard](https://github.com/Haywhydave/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20(Coffee%20Sales).png)
 
 ## Tools used
 - Excel (Power Query, PivotTables, Slicers)
